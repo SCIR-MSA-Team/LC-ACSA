@@ -22,4 +22,4 @@ Run the following commands for restaurant 2014 dataset. For the restaurant 2014 
 
 
 ## Trained models
-Trained models can be found [here](). For Chinese, trained models can also be found [here] and the key is ().
+Trained models can be found [here](https://drive.google.com/file/d/1f4pJ3SQQK7gadyCT6YHcdmrwCUaYwgdQ/view?usp=sharing). For Chinese, trained models can also be found [here](https://pan.baidu.com/s/1niwufdgzwIOtggden4QgYw) and the key is u6m0.
