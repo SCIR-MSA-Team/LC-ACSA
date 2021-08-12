@@ -1,0 +1,11 @@
+glove
+pretrain_model
+rest_pt
+*.txt
+*.pkl
+__pycache__
+pkl_files_ACSC
+pkl_files_ACSC_paper
+pkl_files_ATE
+pkl_files_ATE_paper
+output_*.txt
