@@ -13,8 +13,8 @@ pip install -r requirement.txt
 Run the following commands for restaurant 2014 dataset. For the restaurant 2014 hard, restaurant large and restaurant large hard datasets, change rest14DevSplit in the following commands to rest14_hard, rest_large and rest_large_hard respectively.
 
 ### Train (for LC-LSTM)
-1. sh train_ATE.sh
-2. sh train_ACD.sh rest14DevSplit
+1. python train_ATE.py --dataset allRest --lr 3e-5 --dropout 0.2
+2. python train_ACD.py --dataset rest14DevSplit  --epoch 10 
 3. sh scripts_ACSC/CDT_categoryEmbedding_gcnCat_extractTerm.sh cuda:0 train rest14DevSplit 40 
 
 ### Test (for LC-LSTM)
